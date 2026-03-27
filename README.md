@@ -1,7 +1,10 @@
 # PyConsole Manager - Python脚本管理器
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
+[![Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)]
+
+除了这段话,其他都是AI生成.不知道有没有人和我有相同的痛点,每运行一个python脚本,就会多出一个cmd窗口,如果运行多个就不太好看,有些时候cmd是一点都不需要看的,因为已经有UI界面,有时候要看LOG的时候,哪个窗口的log对的是哪个脚本又有可能分不清.
+所以叫AI用VB6搞了这个.开始调试的时候一直对隐藏CMD窗口都搞不好,另外对脚本读取配置文件"config.json"的目录有时候也会出错,调试还是花了挺长一段时间的,最终是用deepseek的网页版完成.
 
 一个用VB6开发的Python脚本管理工具，可以同时管理多个Python脚本，控制CMD窗口的显示和隐藏。
 
