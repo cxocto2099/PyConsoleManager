@@ -25,7 +25,7 @@
 ## 📥 下载安装
 
 ### 方式一：下载编译好的exe
-1. 前往 [Releases](https://github.com/cxocto/PyConsoleManager/releases) 页面
+1. 前往 [Releases](https://github.com/cxocto2099/PyConsoleManager/releases) 页面
 2. 下载最新的 `PyConsoleManager.exe`
 3. 双击运行，无需安装
 
